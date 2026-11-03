@@ -10,7 +10,7 @@ from pathlib import Path
 # 1. CONFIGURATION
 # ==========================================
 
-Entrez.email = "nethmikavindya828@gmail.com"
+Entrez.email = "nethmikavindya@gmail.com"
 
 BRCA_GENES = {
     "BRCA1": "NG_005905.2",

@@ -1,0 +1,20 @@
+GENOMIC DNA GREEDY MOTIF SEARCH
+================================
+
+NCBI genomic accessions:
+G6PD: NG_009015.2
+F8: NG_011403.2
+DMD: NG_012232.1
+PAH: NG_008690.2
+
+Selected region per gene: 1000 bp
+Region: first 1000 bases in gene 5'-to-3' orientation
+Motif length: 10
+Pseudocount: 1
+
+G6PD: CCGGCCTCCA (position 546)
+F8: CTGGGCCCCA (position 418)
+DMD: CTTGCCTCCA (position 546)
+PAH: CTGGCCTCCA (position 420)
+
+Best motif score: 4
